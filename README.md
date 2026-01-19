@@ -105,3 +105,7 @@ Location: West Bengal, India
 📧 Email: lokenathb2005@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/lokenath-banerjee-53a95928b/
 🐙 GitHub: https://github.com/LokenathBanerjee/
+
+### 🔗 Live Streamlit App
+👉 **Streamlit App URL:**  
+**https://lokenathb2005firstapp.streamlit.app/*
