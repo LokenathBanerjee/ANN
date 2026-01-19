@@ -107,5 +107,4 @@ Location: West Bengal, India
 🐙 GitHub: https://github.com/LokenathBanerjee/
 
 ### 🔗 Live Streamlit App
-👉 **Streamlit App URL:**  
-**https://lokenathb2005firstapp.streamlit.app/*
+👉 Streamlit App URL: 🌐 https://lokenathb2005firstapp.streamlit.app/
