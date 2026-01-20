@@ -105,9 +105,11 @@ Location: West Bengal, India
 
 🚀 Connect With Me
 
-📧 Email: (lokenathb2005@gmail.com)
-🔗 LinkedIn: (https://www.linkedin.com/in/lokenath-banerjee-53a95928b/)
-🐙 GitHub: (https://github.com/LokenathBanerjee/)
+📧 Email: lokenathb2005@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/lokenath-banerjee-53a95928b/
+
+🐙 GitHub: https://github.com/LokenathBanerjee/
 
 Click below to open the live Streamlit app:
 [➡️ Go to Live App](https://annproject-9tqczex9rsd24ekkormade.streamlit.app/)
