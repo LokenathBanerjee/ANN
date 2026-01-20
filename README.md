@@ -92,8 +92,11 @@ This project demonstrates an end-to-end machine learning system, from data analy
 🚀 Future Enhancements:-
 
 Add model evaluation metrics in the UI
+
 Deploy the app on Streamlit Cloud
+
 Enhance feature engineering
+
 Experiment with different ANN architectures
 
 👤 Author Details
