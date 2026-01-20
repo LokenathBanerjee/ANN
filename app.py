@@ -27,8 +27,8 @@ st.markdown("---")
 # -------------------------------------------------
 @st.cache_resource
 def load_assets():
-    model = tf.keras.models.load_model("saved_model/churn_model.h5")
-    with open("saved_model/preprocessor.pkl", "rb") as f:
+    model = tf.keras.models.load_model("Saved_Model/churn_model.h5")
+    with open("Saved_Model/preprocessor.pkl", "rb") as f:
         preprocessor = pickle.load(f)
     return model, preprocessor
 
