@@ -73,6 +73,11 @@ streamlit run app.py
 | Development Tools    | Jupyter Notebook, IPykernel |
 | Monitoring           | TensorBoard                 |
 
+📄 All dependencies are listed in requirements.txt
+```
+
+📁 Project Structure
+
 ├── app.py                     # Streamlit application
 ├── eda.ipynb                  # Exploratory Data Analysis
 ├── pred3.ipynb                # Model training & prediction
@@ -84,14 +89,11 @@ streamlit run app.py
 
 This project demonstrates an end-to-end machine learning system, from data analysis and ANN model training to deployment using a web interface.
 
-🚀 Future Enhancements
+🚀 Future Enhancements:-
 
 Add model evaluation metrics in the UI
-
 Deploy the app on Streamlit Cloud
-
 Enhance feature engineering
-
 Experiment with different ANN architectures
 
 👤 Author Details
@@ -100,11 +102,12 @@ Author: Lokenath Banerjee
 Degree: B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)
 Institute: Haldia Institute of Technology
 Location: West Bengal, India
+
 🚀 Connect With Me
 
-📧 Email: lokenathb2005@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/lokenath-banerjee-53a95928b/
-🐙 GitHub: https://github.com/LokenathBanerjee/
+📧 Email: (lokenathb2005@gmail.com)
+🔗 LinkedIn: (https://www.linkedin.com/in/lokenath-banerjee-53a95928b/)
+🐙 GitHub: (https://github.com/LokenathBanerjee/)
 
-### 🔗 Live Streamlit App
-👉 Streamlit App URL: 🌐 https://lokenathb2005firstapp.streamlit.app/
+Click below to open the live Streamlit app:
+[➡️ Go to Live App](https://annproject-9tqczex9rsd24ekkormade.streamlit.app/)
