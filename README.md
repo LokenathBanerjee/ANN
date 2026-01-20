@@ -76,7 +76,7 @@ streamlit run app.py
 📄 All dependencies are listed in requirements.txt
 ```
 
-##📁 Project Structure
+## 📁 Project Structure
 ```
 ├── app.py                     # Streamlit application
 ├── eda.ipynb                  # Exploratory Data Analysis
