@@ -89,7 +89,7 @@ streamlit run app.py
 ```
 This project demonstrates an end-to-end machine learning system, from data analysis and ANN model training to deployment using a web interface.
 
-##🚀 Future Enhancements:-
+## 🚀 Future Enhancements:-
 
 Add model evaluation metrics in the UI
 
@@ -99,14 +99,14 @@ Enhance feature engineering
 
 Experiment with different ANN architectures
 
-##👤 Author Details
+## 👤 Author Details
 
 Author: Lokenath Banerjee
 Degree: B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)
 Institute: Haldia Institute of Technology
 Location: West Bengal, India
 
-###🚀 Connect With Me
+### 🚀 Connect With Me
 
 📧 Email: lokenathb2005@gmail.com
 
