@@ -62,35 +62,10 @@ credit_score = st.number_input(
     value=650
 )
 
-st.subheader("Age")
-
-# Initialize session state (important)
-if "age" not in st.session_state:
-    st.session_state.age = 30
-
-col1, col2 = st.columns([3, 1])
-
-with col1:
-    st.session_state.age = st.slider(
-        "Age",
-        min_value=18,
-        max_value=92,
-        value=st.session_state.age,
-        key="age_slider"
-    )
-
-with col2:
-    st.session_state.age = st.number_input(
-        "Type Age",
-        min_value=18,
-        max_value=92,
-        value=st.session_state.age,
-        step=1,
-        key="age_input"
-    )
-
-age = st.session_state.age
-
+age = st.slider(
+    "Age",
+    18, 80, 30
+)
 
 gender = st.selectbox(
     "Gender",
