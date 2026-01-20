@@ -77,7 +77,7 @@ streamlit run app.py
 ```
 
 📁 Project Structure
-
+```
 ├── app.py                     # Streamlit application
 ├── eda.ipynb                  # Exploratory Data Analysis
 ├── pred3.ipynb                # Model training & prediction
@@ -86,7 +86,7 @@ streamlit run app.py
 │   ├── churn_model.h5         # Trained ANN model
 │   └── preprocessor.pkl       # Saved preprocessing pipeline
 ✅ Conclusion
-
+```
 This project demonstrates an end-to-end machine learning system, from data analysis and ANN model training to deployment using a web interface.
 
 🚀 Future Enhancements:-
