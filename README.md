@@ -103,7 +103,9 @@ Experiment with different ANN architectures
 
 Author: Lokenath Banerjee
 Degree: B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)
+
 Institute: Haldia Institute of Technology
+
 Location: West Bengal, India
 
 ### 🚀 Connect With Me
